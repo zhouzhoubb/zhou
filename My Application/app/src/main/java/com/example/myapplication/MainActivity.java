@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         String st = "123";
+        String st2 = "123";
     }
 }
